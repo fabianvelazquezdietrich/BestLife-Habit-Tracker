@@ -1,0 +1,45 @@
+[
+    {
+        "task": "Morning reading",
+        "periodicity": "daily",
+        "creation_date": "2024-12-13T17:24:59.395286",
+        "completion_dates": [
+            "2024-12-19T23:15:00.398834",
+            "2024-12-19T23:15:03.790648",
+            "2024-12-19T23:15:06.953115",
+            "2024-12-19T23:15:08.707583",
+            "2024-12-19T23:15:11.194547"
+        ],
+        "streak": 5
+    },
+    {
+        "task": "Yoga",
+        "periodicity": "daily",
+        "creation_date": "2024-12-13T17:25:16.948180",
+        "completion_dates": [
+            "2024-12-14T09:54:54.782729",
+            "2024-12-19T23:10:19.352656"
+        ],
+        "streak": 1
+    },
+    {
+        "task": "Dancing class",
+        "periodicity": "weekly",
+        "creation_date": "2024-12-13T19:38:55.599405",
+        "completion_dates": [
+            "2024-12-15T10:46:50.764758",
+            "2024-12-19T23:00:37.129004",
+            "2024-12-19T23:00:41.850251"
+        ],
+        "streak": 3
+    },
+    {
+        "task": "Evening walk",
+        "periodicity": "daily",
+        "creation_date": "2024-12-19T23:09:28.630632",
+        "completion_dates": [
+            "2024-12-19T23:09:56.065642"
+        ],
+        "streak": 1
+    }
+]

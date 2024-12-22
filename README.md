@@ -1,5 +1,7 @@
+
 # BestLife-Habit-Tracker
 A Python CLI application to track habits
+
 
 ## Overview
 Hey there! We created the BestLife to help you explore, create, manage, and analyze your habits. It's a command-line application, so it's a bit different from other habit trackers out there. But we think you'll love it! This handy little app helps you keep track of your daily and weekly habits, so you can monitor your progress, build streaks, and reflect on how consistent you've been.
